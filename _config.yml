@@ -85,9 +85,9 @@ author:
   bio              : "Undergrad student and Machine learning researcher"
   location         : "Delhi,India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cK8yUfEAAAAJ&hl=en"
-  email            :
+  email            : "vgvansh25@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "imvansh25"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "imvansh25"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "imvansh25"
