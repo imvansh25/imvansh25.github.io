@@ -25,6 +25,6 @@ Interesting in Building Algorithms, Machine Learning, Deep Learning, Computer Vi
 
 Currently, I am working as **RESEARCH INTERN at ROBERT BOSCH CENTRE FOR DATA SCIENCE AND ARTIFICIAL INTELLIGENCE,INDIAN INSTITUTE OF TECHNOLOGY MADRAS** under **Dr. Krishnan Balasubramanian**
 
-Previously worked at INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, ALLAHABAD under Prof US Tiwari and Rohit Mishra. I worked on Dialogue System as a research intern in Human-Computer-Interaction department.
+Previously worked at **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, ALLAHABAD** under **Prof US Tiwari and Rohit Mishra**. I worked on Dialogue System as a research intern in Human-Computer-Interaction department.
 
 Thanks for visiting. 
