@@ -2,7 +2,9 @@
 title: "Improvement in Semantic Address Matching using Natural Language Processing"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper discuss semantic Address matching technique, by which we can find out a particular address from a list of possible addresses.'
+excerpt: 'This paper discuss semantic Address matching technique, by which we can find out a particular address from a list of possible addresses.
+
+Status - Published'
 date: 21-23 May 2021
 venue: '2021 2nd International Conference for Emerging Technology (INCET)'
 paperurl: 'https://ieeexplore.ieee.org/document/9456342'
