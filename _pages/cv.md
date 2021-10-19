@@ -45,14 +45,15 @@ SCoRe,TripPy + CoCoAug
 
 * Please refer Resume for more information.
   
-Skills
+Skills/ Area ff Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning and Deep learning
+  * Natural language Processing
+  * Generative modeling
+  * Computer vision
+* Data Science
+* Advance Mathematics
+* Cloud - AWS, GCP, Azure
 
 Publications
 ======
@@ -63,4 +64,6 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently working as Software lead of Robogyan, official Robotics Society Of ADGITM
+* Conducted 5+ works on machine learning and Data science, mentoring over 200+ students
+* Lead my team to win Smart India hackathon.
