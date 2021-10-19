@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download Resume** [here](images\Vansh_Gupta_Resume_18-10-2021-21-59-24.pdf)
+**Download Resume** [here](\images\Vansh_Gupta_Resume_18-10-2021-21-59-24.pdf)
 
 Education
 ======
