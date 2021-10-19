@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download Resume** [here](https://drive.google.com/file/d/18LLtQd-u4k_qckEOvE10ABjHDK9vyQzH/view?usp=sharing)
+**Download Resume** [here](https://imvansh25.github.io/files/Vansh_Gupta_Resume_18-10-2021-21-59-24.pdf)
 
 Education
 ======
