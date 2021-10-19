@@ -9,25 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-**Download Resume** [here](\images\Vansh_Gupta_Resume_18-10-2021-21-59-24.pdf)
+**Download Resume** [here](https://drive.google.com/file/d/18LLtQd-u4k_qckEOvE10ABjHDK9vyQzH/view?usp=sharing)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.TECH IN ELECTRONICS AND COMMUNICATION,Guru Gobind Singh Indraprastha University
+  * CGPA - 8.61/10
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* RESEARCH INTERN
+  * ROBERT BOSCH CENTRE FOR DATA SCIENCE AND ARTIFICIAL INTELLIGENCE,INDIAN INSTITUTE OF TECHNOLOGY MADRAS
+  * Supervisor - Dr. Krishnan Balasubramanian
+  * Topic - Baggage Scanning System
+  * Role - Using CT scanned images, achieve state-of-the-art precision in finding bombs and detonators in luggage.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* MACHINE LEARNING INTERN
+  * KOIREADER TECHNOLOGIES
+  * Mentor - Himanshu Singh (Machine learning Lead)
+  * Projects - Language Detection, Invoice type Detection, Address matching, OCR
+ability test, OCR for invoices
+  * Skills Gained - Advanced NLP topics such as Transformers, BERT, Embeddings,
+etc.
+
+
+* RESEARCH INTERN
+  * INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, ALLAHABAD
+  * Supervisor -  Prof. U. S. Tiwary
+  * Topic -  Dialogue State Tracking
+  * Role -  Implementing Various Deep learning Models on MultiWoz2.2 Dataset
+  * Models Implemented : TripPy,SimpleTOD,ConvBERT-DG + Multi,TripPy +
+SCoRe,TripPy + CoCoAug
+
+
+* Please refer Resume for more information.
   
 Skills
 ======
