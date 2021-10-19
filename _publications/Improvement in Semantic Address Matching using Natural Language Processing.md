@@ -5,8 +5,8 @@ permalink: /publication/Improvement in Semantic Address Matching using Natural L
 excerpt: 'This paper discuss semantic Address matching technique, by which we can find out a particular address from a list of possible addresses.'
 date: 21-23 May 2021
 venue: '2021 2nd International Conference for Emerging Technology (INCET)'
-# paperurl: 'https://ieeexplore.ieee.org/document/9456342'
-# citation: 'V. Gupta, M. Gupta, J. Garg and N. Garg, "Improvement in Semantic Address Matching using Natural Language Processing," 2021 2nd International Conference for Emerging Technology (INCET), 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456342'
+paperurl: 'https://ieeexplore.ieee.org/document/9456342'
+citation: 'V. Gupta, M. Gupta, J. Garg and N. Garg, "Improvement in Semantic Address Matching using Natural Language Processing," 2021 2nd International Conference for Emerging Technology (INCET), 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456342'
 ---
 
 **Abstract**
@@ -19,4 +19,4 @@ Published
 
 [Download paper here](https://ieeexplore.ieee.org/document/9456342)
 
-<!-- Recommended citation: V. Gupta, M. Gupta, J. Garg and N. Garg, "Improvement in Semantic Address Matching using Natural Language Processing," 2021 2nd International Conference for Emerging Technology (INCET), 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456342. -->
+Recommended citation: V. Gupta, M. Gupta, J. Garg and N. Garg, "Improvement in Semantic Address Matching using Natural Language Processing," 2021 2nd International Conference for Emerging Technology (INCET), 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456342.
