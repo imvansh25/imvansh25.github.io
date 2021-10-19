@@ -5,8 +5,8 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'The study seeks to enhance the accuracy of textual content identity to be able to make contributions to the improvement of existing technology.'
 date: November 18-20, 2021
-venue: 'IBSSC-2021: 3rd IEEE Bombay Section Signature Conference.'
-paperurl: 'https://drive.google.com/file/d/1OgtM_nCqQU4PVKyWV4_p-hCns_wu3q7y/view?usp=sharing'
+venue: '2021 3rd IEEE Bombay Section Signature Conference(IBSSC),2021'
+paperurl: ''
 citation: ''
 ---
 **Abstract**
