@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**Download Resume** [here](images\Vansh_Gupta_Resume_18-10-2021-21-59-24.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -42,17 +44,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
