@@ -45,7 +45,7 @@ SCoRe,TripPy + CoCoAug
 
 * Please refer Resume for more information.
   
-Skills/ Area ff Interests
+Skills/ Area of Interests
 ======
 * Machine learning and Deep learning
   * Natural language Processing
